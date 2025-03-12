@@ -1,0 +1,6 @@
+This is a sample text file inside this repository
+
+Name: Karren
+RollNo:23BCAE33
+Course:BCA
+
